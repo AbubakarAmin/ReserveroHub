@@ -62,5 +62,5 @@ I built this project as the sole developer, responsible for both backend archite
 
 Open to freelance projects and remote opportunities.
 
-- **GitHub:** [github.com/abubakaramin1](https://github.com/abubakaramin1)
+- **GitHub:** [github.com/abubakaramin1](https://github.com/abubakaramin)
 - **Email:** [abubakaramin100@gmail.com](mailto:[EMAIL_ADDRESS])
